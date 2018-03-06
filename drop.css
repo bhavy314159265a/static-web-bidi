@@ -14,3 +14,12 @@ body {
 li.dropdown:hover > .dropdown-menu {
     display: block;
 }
+.carousel-inner{
+    height: 300px;
+}
+
+.item, img{
+    height: 100% !important;
+    width:  100% !important;
+    border: 1px solid red;
+}
